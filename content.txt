@@ -1,0 +1,4 @@
+1. End to end Project (Chatbook class)
+   > encapsulation
+   > getter and setter
+   > static method
